@@ -498,7 +498,6 @@ def Recharge(imei, uid):
 # 117: 16536 15201418063
 # 116:16508 15201418063
 
-#{unionid=o-ybuskEaK4HgNgdKD4RNEvSyKcE, screen_name=十二越, city=, accessToken=37_5CT-_L0fI7zUBHwHWZtHTaIDvhg0Dvf_ZlFGIdNeBMWGePHXmoHxuJR625DyOFt4b_q2WpyVwBIPXM7cA7O09uKaWlImDxIYjiNTQb7GLEs, refreshToken=37_L5TAQ7zCrIe2syZmv7WCodO9z1DrBV-Zss0e20gl8CaXrDV6FyR9AIbOqoM-Ki17SJId8EBfcK4QNO4lsk6-_OXNcUmvxb93bxmUPeap5EA, gender=男, province=, openid=onTt2jrjT2sgzU6uxSCkUR3aGZZ4, profile_image_url=https://thirdwx.qlogo.cn/mmopen/vi_32/u8g8UoUaBZQCNHKsvS6actOjRRYicVRibuhf4UAFDbiaGvyApwr0B4ibaDEibjsLGJoGgbSzcnLBoE4mjxvXZ8Nb4Pw/132, country=, access_token=37_5CT-_L0fI7zUBHwHWZtHTaIDvhg0Dvf_ZlFGIdNeBMWGePHXmoHxuJR625DyOFt4b_q2WpyVwBIPXM7cA7O09uKaWlImDxIYjiNTQb7GLEs, iconurl=https://thirdwx.qlogo.cn/mmopen/vi_32/u8g8UoUaBZQCNHKsvS6actOjRRYicVRibuhf4UAFDbiaGvyApwr0B4ibaDEibjsLGJoGgbSzcnLBoE4mjxvXZ8Nb4Pw/132, name=十二越, uid=o-ybuskEaK4HgNgdKD4RNEvSyKcE, expiration=1599966431883, language=zh_CN, expires_in=1599966431883}
 # 117: 16536 15201418063
 # 116:16508 15201418063
 lists = {
@@ -506,7 +505,7 @@ lists = {
     # "117": ["8748"]
     "117": ["16553", "8748", "16536"]
 }
-count = 1
+count = 8
 
 
 def startJob(uid, imei):
