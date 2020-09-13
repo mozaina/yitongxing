@@ -1,0 +1,9 @@
+# Gradle files
+.gradle/
+build/
+gradle/
+jar/.cache/tony@puahome.com
+.idea
+.idea/*
+venv/*
+venv
