@@ -517,6 +517,7 @@ def startJob(uid, imei):
     sign(imei, uid)
     Recharge(imei, uid)
 
+
     # login(imei, uid)
 
     # randomCoin(imei, uid)
